@@ -67,7 +67,7 @@ This lightweight and flexible widget is designed to improve your website’s com
 ### **Sweden**
 - **Swedish Discrimination Act (2008:567)**
 
-### *Israel**
+### **Israel**
 - **IS 5568 (Israeli Standard)**
 
 ### **Australia**
@@ -166,6 +166,7 @@ To avoid CORS policy issues, ensure the following URLs are allowed in your websi
 | `https://*.googleapis.com`         | Google APIs                                  | Services like Fonts, Translation |
 | `https://*.gstatic.com`            | Fonts APIs                                   | Custom Fonts                     |
 | `https://vlibras.gov.br`           | VLibras - Brazilian Sign Language Service    | Sign Language                    |
+
 
 ## Instructions
 
