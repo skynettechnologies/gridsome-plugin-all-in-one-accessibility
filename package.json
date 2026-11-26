@@ -1,12 +1,16 @@
 {
   "name": "gridsome-plugin-all-in-one-accessibility",
-  "version": "1.0.5",
-  "description": "Website accessibility widget for improving WCAG 2.0, 2.1, 2.2 and ADA compliance!",
+  "version": "2.0.0",
+  "description": "Free website accessibility widget for Gridsome: improves WCAG 2.0, 2.1, 2.2, ADA and EAA compliance, with a settings page for color, size, position and icon.",
   "keywords": [
     "gridsome",
     "gridsome-plugin",
+    "accessibility",
+    "a11y",
+    "wcag",
+    "ada",
+    "eaa",
     "All in One Accessibility",
-    "ADA",
     "All in One Accessibility gridsome",
     "All in One Accessibility javascript",
     "gridsome Plugin All in One Accessibility",
@@ -14,26 +18,27 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/skynettechnologies/gridsome-plugin-all-in-one-accessibility"
+    "url": "git+https://github.com/skynettechnologies/gridsome-plugin-all-in-one-accessibility.git"
   },
   "bugs": {
     "url": "https://github.com/skynettechnologies/gridsome-plugin-all-in-one-accessibility/issues"
   },
-  "homepage": "https://github.com/skynettechnologies/gridsome-plugin-all-in-one-accessibility#readme",
+  "homepage": "https://www.skynettechnologies.com/gridsome-website-accessibility",
   "license": "MIT",
   "author": "Skynet Technologies USA LLC <developer3@skynettechnologies.com>",
   "main": "index.js",
   "files": [
-    "gridsome.client.js"
+    "index.js",
+    "gridsome.client.js",
+    "lib/",
+    "browser/",
+    "assets/"
   ],
   "publishConfig": {
     "access": "public"
   },
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
   "peerDependencies": {
+    "gridsome": ">=0.7.0"
   },
   "engines": {
     "node": ">=18"

@@ -1,115 +1,260 @@
-The [Free Gridsome accessibility](https://www.skynettechnologies.com/gridsome-website-accessibility) plugin improves the accessibility of Gridsome powered blog websites, content websites, documentation websites, marketing and landing page websites, portfolio websites, headless CMS websites, and more. It is designed for organizations that want to offer a more inclusive digital experience, it adds an accessibility widget that supports users with diverse needs through features aligned WCAG 2.1, 2.2, ADA, EAA, Section 508, France RGAA, California Unruh, European EAA EN 301 549, UK Equality Act, Spain UNE 139803:2012, Australian DDA, Israeli Standard 5568, Ontario AODA, Canada ACA, German BITV, Brazilian Inclusion Law (LBI 13.146/2015), JIS X 8341 (Japan), Italian Stanca Act, Indian RPwD Act, Switzerland DDA and other [accessibility standards](https://www.skynettechnologies.com/accessibility-standards).
+# All in One Accessibility® – Free ADA Accessibility Widget for Gridsome
 
-Since Gridsome generates static websites using Vue.js, accessibility widgets can be easily integrated through a simple JavaScript snippet without modifying the core codebase and works across all pages after installation. With this [free accessibility widget](https://www.skynettechnologies.com/free-website-accessibility-widget), improve usability for visitors with visual, motor, cognitive, and other accessibility. It demonstrates a commitment to inclusivity and enhance brand reputation.
+This [free Gridsome accessibility plugin](https://www.skynettechnologies.com/gridsome-website-accessibility) makes your website more usable for people with visual, auditory, motor, or cognitive disabilities. It supports assistive technologies and helps align with WCAG 2.1, 2.2, ADA, EAA, Section 508, France RGAA, California Unruh, European EAA EN 301 549, UK Equality Act, Spain UNE 139803:2012, Australian DDA, Israeli Standard 5568, UAE Disability Act (Federal Law No. 29 of 2006), Saudi Web Accessibility Standards, Qatar National e-Accessibility Policy, Ontario AODA, Canada ACA, German BITV, Brazilian Inclusion Law (LBI 13.146/2015), JIS X 8341 (Japan), Italian Stanca Act, Indian RPwD Act, Switzerland DDA, and other [accessibility standards](https://www.skynettechnologies.com/accessibility-standards).
 
-_This free accessibility Gridsome plugin follows several data and application security practices, including ISO 9001:2015 & ISO 27001:2022, GDPR, CCPA, COPPA, HIPAA, and SOC 2 Type II. Skynet Technologies USA LLC is a proud member of W3C and the International Association of Accessibility Professionals (IAAP)._
+This lightweight [free ADA accessibility widget](https://www.skynettechnologies.com/free-website-accessibility-widget) quickly adds essential accessibility features that support inclusive browsing and compliance efforts.
 
-**Gridsome free accessibility plugin features:**
+## Highlights
+
+- **Free forever:** Essential accessibility features at no cost.
+- **Quick setup:** Installs in minutes with a lightweight script.
+- **Multilingual:** 190+ languages with automatic language detection.
+- **Customizable:** Match the widget's colors, size, icon, and position to your site's mobile and desktop designs.
+- **Free support:** Our support team helps with installation and any queries.
+- **Easy upgrade:** Upgrade to advanced accessibility anytime and get 100+ features, including screen reader, talk & type, and voice navigation. Try them with a [10-day free trial](https://ada.skynettechnologies.us/trial-subscription).
+
+## What You Get with the Free Widget
 
 - Auto-detect language
-- Supports 190+ multi-languages.
+- 190+ languages
 - Skip to Navigation / Content / Footer
 - Content adjustment options
-- Visual and Color Adjustments
-- Customization available including colors, size, icon, and position.
+- Visual & color adjustments
 - Reading mask
+- Widget customization (colors, size, icon, and position)
 - Accessibility statement
 
-Explore the [free accessibility widget features guide](https://www.skynettechnologies.com/sites/default/files/Free-Accessibility-Widget-Features-Guide.pdf).
+Explore the [**free accessibility widget features guide**](https://www.skynettechnologies.com/sites/default/files/Free-Accessibility-Widget-Features-Guide.pdf).
 
-**Installation:**
+## Who Is the Free Widget For?
 
-Check out [**Gridsome WCAG accessibility widget integration steps**](https://www.skynettechnologies.com/blog/gridsome-web-accessibility-widget-installation)**.**
+Businesses, developers, agencies, content teams, ecommerce brands, educational institutions, and public-facing organizations using Gridsome who want to improve WCAG accessibility, usability, and user experience quickly without complex development.
 
-**Visit the Gridsome site accessibility plugin demo to see how does it perform with improved accessibility features:**
+## Why Choose This Free Widget?
 
-[![All in One Accessibility Website Widget](https://img.youtube.com/vi/X70XtvGyvSs/0.jpg)](https://www.youtube.com/watch?v=X70XtvGyvSs)
+- Aligns with global accessibility standards.
+- Improves usability for people with visual, cognitive, and motor impairments.
+- Integrates smoothly with most Gridsome themes and templates.
+- Free support from our team for installation and queries.
+- Core features at no cost.
 
-**CORS Policy Configuration**
+## Free vs Paid
 
-To avoid CORS policy issues, ensure the following URLs are allowed in your website. These URLs should be added to your CORS configuration or trusted domains list.
+See the full [free widget vs paid app comparison](https://www.skynettechnologies.com/installation-guide/free-vs-paid-accessibility-widget-comparison-video).
+
+## Security and Privacy
+
+- This free accessibility plugin follows several data and application security practices, including ISO 9001:2015 & ISO 27001:2022, GDPR, CCPA, COPPA, HIPAA, and SOC 2 Type II.
+- Skynet Technologies USA LLC is an organizational member of IAAP and W3C.
+- No personal data is intentionally stored by the plugin itself.
+- Site owners are responsible for reviewing their own compliance requirements.
+
+## Limitations
+
+- Some advanced features require a commercial subscription and Paid Add-ons.
+- The plugin improves accessibility and usability but is not a full replacement for manual WCAG remediation.
+
+For more details, visit [**Gridsome accessibility plugin**](https://www.skynettechnologies.com/gridsome-website-accessibility).
+
+## FAQs
+
+**Does this free accessibility plugin support multilingual Gridsome sites?**
+
+Yes. It supports 190+ languages.
+
+**Which languages do the screen reader, virtual keyboard, and other advanced features support?**
+
+The widget interface supports 190+ languages. In the paid app, Screen Reader supports 100+, Voice Navigation 50+, Talk & Type 50+, Virtual Keyboard 40+, Dictionary Search 20+, and Live Site Translation 160+. [See language support details](https://www.skynettechnologies.com/all-in-one-accessibility/languages).
+
+**How can I upgrade from the free widget to the paid app?**
+
+Upgrade to a paid subscription with 100+ advanced features. Check out the [upgrade steps](https://www.skynettechnologies.com/blog/upgrade-from-all-in-one-accessibility-free-widget-to-premium-version).
+
+**What additional features are available in the paid version?**
+
+The paid app includes a screen reader, voice navigation, talk & type, virtual keyboard, dictionary search, 12 accessibility profiles tailored for different disability groups, Libras (Brazilian Sign Language), American Sign Language, automated compliance accessibility reports, AI-based remediation guidelines, and more. Explore the [paid accessibility app](https://www.skynettechnologies.com/all-in-one-accessibility) and buy now.
+
+**Can I try the paid app before buying?**
+
+Yes. The paid app comes with a [10-day free trial](https://ada.skynettechnologies.us/trial-subscription) that includes all features.
+
+**Which themes are supported?**
+
+Gridsome Default starter, Gridsome Blog starter, custom Gridsome themes and layouts (the plugin adds the widget to every page itself, so no theme changes are needed), and many more.
+
+## Supported Languages (190+)
+
+English (USA), English (UK), English (Australian), English (Canadian), English (South Africa), Español, Español (Mexicano), Deutsch, عربى, Português, Português (Brazil), 日本語, Français, Italiano, Polski, Pусский, 中文, 中文 (Traditional), עִברִית, Magyar, Slovenčina, Suomenkieli, Türkçe, Ελληνικά, Latinus, Български, Català, Čeština, Dansk, Nederlands, हिंदी, Bahasa Indonesia, 한국인, Lietuvių, Bahasa Melayu, Norsk, Română, Slovenščina, Svenska, แบบไทย, Українська, Việt Nam, বাঙালি, සිංහල, አማርኛ, Hmoob, မြန်မာ, Eesti keel, latviešu, Cрпски, Hrvatski, ქართული, ʻŌlelo Hawaiʻi, Cymraeg, Cebuano, Samoa, Kreyòl ayisyen, Føroyskt, Crnogorski, Azerbaijani, Euskara, Tagalog, Galego, Norsk Bokmål, فارسی, ਪੰਜਾਬੀ, shqiptare, Hայերեն, অসমীয়া, Aymara, Bamanankan, беларускі, bosanski, Corsu, ދިވެހި, Esperanto, Eʋegbe, Frisian, guarani, ગુજરાતી, Hausa, íslenskur, Igbo, Gaeilge, basa jawa, ಕನ್ನಡ, қазақ, ខ្មែរ, Kinyarwanda, Kurdî, Кыргызча, ພາສາລາວ, Lingala, Luganda, lëtzebuergesch, македонски, Malagasy, മലയാളം, Malti, Maori, मराठी, Монгол, नेपाली, Sea, ଓଡିଆ, Afaan Oromoo, پښتو, Runasimi, संस्कृत, Gàidhlig na h-Alba, Sesotho, Shona, سنڌي, Soomaali, basa Sunda, kiswahili, тоҷикӣ, தமிழ், Татар, తెలుగు, ትግሪኛ, Tsonga, Türkmenler, Ride, اردو, ئۇيغۇر, o'zbek, isiXhosa, יידיש, Yoruba, Zulu, भोजपुरी, डोगरी, कोंकणी, Kurdî, Krio, मैथिली, Meiteilon, Mizo tawng, Sepedi, Ilocano, دری
+
+## Prerequisites
+
+- Gridsome 0.7 or newer
+- Node.js 18 or newer
+- `siteUrl` in `gridsome.config.js` set to your live website (or the plugin option `domain`)
+
+- Tested and verified on Gridsome 0.7.23
+
+## Installation
+
+1. Install the plugin:
+
+   ```bash
+   npm install gridsome-plugin-all-in-one-accessibility
+   ```
+
+2. Add it to `gridsome.config.js`, and set `siteUrl` to your live website:
+
+   ```js
+   module.exports = {
+     siteUrl: 'https://www.example.com',
+     plugins: [
+       {
+         use: 'gridsome-plugin-all-in-one-accessibility'
+       }
+     ]
+   }
+   ```
+
+3. Run `gridsome develop` or `gridsome build`. The widget is added to every page of your website.
+
+**Plugin options** (all optional):
+
+| Option | Default | Description |
+| --- | --- | --- |
+| `domain` | the domain of `siteUrl` | Website the widget is registered and configured for, for example `www.example.com`. |
+| `settingsPage` | `'development'` | `'development'`: the settings page exists only while `gridsome develop` runs. `true`: also written to `dist/` by `gridsome build`. `false`: no settings page. |
+| `settingsPath` | `'/gridsome-plugin-all-in-one-accessibility'` | Path of the settings page. |
+| `adminName` | the website | Admin name, sent once when the website is registered for the free widget. |
+| `adminEmail` | `no-reply@<website>` | Admin email, sent once when the website is registered for the free widget. |
+| `widget` | `true` | `false` turns the widget off without removing the plugin. |
+| `region` | `'auto'` | Widget script: `'auto'` uses the EU script when the website was registered from the EU (checked when the site is built), `'eu'` or `'global'` always use that script. |
+
+**Upgrading from version 1.x:** update the package and keep the plugin in `gridsome.config.js`. The settings page now shows only on `gridsome develop` by default; set `settingsPage: true` to keep it on your built website.
+
+Package name: `gridsome-plugin-all-in-one-accessibility`
+
+Check out our [**Gridsome WCAG accessibility widget installation steps**](https://www.skynettechnologies.com/blog/gridsome-web-accessibility-widget-installation).
+
+## Configuration
+
+Configure the widget from the plugin's settings page. Gridsome has no admin panel, so the settings page runs on your own computer while `gridsome develop` runs.
+
+**Path:** `http://localhost:8080/gridsome-plugin-all-in-one-accessibility/`
+
+**Steps:**
+
+1. Run `gridsome develop` and open `http://localhost:8080/gridsome-plugin-all-in-one-accessibility/`.
+2. The first time the page opens, your website (the domain of `siteUrl`) is registered for the free widget.
+3. Configure options (color, icon type, position, size).
+4. Save your changes. The widget on your live website loads the new settings by itself, with no rebuild needed.
+
+## Demo
+
+See how the widget performs with improved accessibility features:
+
+[![Free accessibility widget demo video](https://img.youtube.com/vi/VMHx30aUnR4/0.jpg)](https://www.youtube.com/watch?v=VMHx30aUnR4)
+
+## CORS Policy Configuration
+
+To avoid CORS policy issues, ensure the following URLs are allowed on your website. Add them to your CORS configuration or trusted domains list.
 
 | **Domain** | **Description** | **Usage** |
 | --- | --- | --- |
 | https://\*.skynettechnologies.com | Skynet Technologies (Global Domain) | API access and resources |
 | https://\*.skynettechnologies.us | Skynet Technologies (US Domain) | API access and resources |
+| https://skynetaccessibilityscan.com | SkynetAccessibility Scanner | Accessibility scan results and score |
 | https://\*.googleapis.com | Google APIs | Services like Fonts, Translation |
 | https://\*.gstatic.com | Fonts APIs | Custom Fonts |
-| https://vlibras.gov.br | VLibras - Brazilian Sign Language Service | Sign Language |
+| https://vlibras.gov.br | VLibras – Brazilian Sign Language Service | Sign Language |
+| https://ipapi.co | ipapi – IP Geolocation API | Called once during installation to detect an EU location and add the EU-based widget script (endpoint: `/json/`) |
 
 **Instructions**
 
 1. Update your server's CORS configuration to include these URLs.
 2. Ensure wildcard subdomains (\*) are supported where necessary.
-3. Verify the application functionality by testing requests to these domains.
+3. Verify functionality by testing requests to these domains.
 4. If issues persist, consult the documentation for CORS configuration guidance.
 
-**Documentation**
+## Documentation
 
--   **[Gridsome Accessibility Plugin](https://www.skynettechnologies.com/gridsome-website-accessibility)**
--   **[How to install an accessibility Gridsome WCAG compliance plugin?](https://www.skynettechnologies.com/blog/gridsome-web-accessibility-widget-installation)**
--   [**Gridsome WCAG compliance accessibility - Features Guide**](https://www.skynettechnologies.com/sites/default/files/accessibility-widget-features-list.pdf)
+- [**Gridsome Accessibility plugin**](https://www.skynettechnologies.com/gridsome-website-accessibility)
+- [**How to install the accessibility widget on Gridsome**](https://www.skynettechnologies.com/blog/gridsome-web-accessibility-widget-installation)
+- [**Free Accessibility Widget Features Guide**](https://www.skynettechnologies.com/sites/default/files/Free-Accessibility-Widget-Features-Guide.pdf)
+- [**Free Widget vs Paid App Comparison**](https://www.skynettechnologies.com/installation-guide/free-vs-paid-accessibility-widget-comparison-video)
+
+## Support
 
 **Submit a Support Request**
 
-Please visit our [**support page**](https://www.skynettechnologies.com/report-accessibility-problem) and fill out the form. Our team will get back to you as soon as possible.
+Visit our [**support page**](https://www.skynettechnologies.com/report-accessibility-problem) and fill out the form. Our team will get back to you as soon as possible.
 
 **Send Us an Email**
 
-Alternatively, you can send an email to our support team: [**hello@skynettechnologies.com**](mailto:hello@skynettechnologies.com)
+Email our support team: [**hello@skynettechnologies.com**](mailto:hello@skynettechnologies.com)
 
-  
+## Accessibility Paid Add-on Services
 
-**Accessibility Paid Add-on Services**
+[**Manual Accessibility Audit**](https://www.skynettechnologies.com/website-accessibility-audit)
 
-**[Gridsome manual accessibility audit](https://www.skynettechnologies.com/website-accessibility-audit)**
+- Evaluate your website's accessibility with a [web accessibility consultant](https://www.skynettechnologies.com/web-accessibility-consultant).
+- WCAG 2.0 / 2.1 / 2.2 Level AA conformance testing
+- Automated, semi-automated, and manual testing
+- Simple before-after UI/UX recommendations on how to fix the issues
+- Comprehensive audit report
 
--   Enhance inclusivity and user experience by evaluating Gridsome website’s accessibility by [web accessibility consultant](https://www.skynettechnologies.com/web-accessibility-consultant).
--   WCAG 2.0 / WCAG 2.1 / WCAG 2.2 Level AA conformance testing
--   Automated, semi-automated testing
--   Manual testing
--   Simple before-after UI/UX recommendations on how to fix the issues
--   Comprehensive audit report
+[**Manual Accessibility Remediation**](https://www.skynettechnologies.com/full-website-accessibility-remediation)
 
-**[Gridsome site manual accessibility remediation](https://www.skynettechnologies.com/full-website-accessibility-remediation)**
+Our experts manually fix accessibility issues across your website to meet WCAG standards, improve the experience for people with disabilities, and provide a detailed report of the improvements made.
 
-Enhance Gridsome site accessibility and inclusivity with our manual accessibility remediation add-on. This service includes fixing accessibility issues and thorough remediation of website manually. Our experts ensure accessibility with WCAG standards, improve user experience for those with disabilities, and provide a detailed report on the improvements made.
+[**VPAT Report / Accessibility Conformance Report (ACR)**](https://www.skynettechnologies.com/vpat-accessibility-conformance-report)
 
-[**PDF / Document Accessibility Remediation**](https://www.skynettechnologies.com/pdf-accessibility-remediation)
+The Voluntary Product Accessibility Template (VPAT), also known as an Accessibility Conformance Report (ACR), starts with an audit and documents the current accessibility of a website, application, or other digital asset.
 
-The PDF / Document Remediation provides a list of inaccessible PDFs and remediated PDFs from where you can request PDF remediation service.
+## Accessibility Paid Add-ons
 
-**[VPAT Report / Accessibility Conformance Report (ACR)](https://www.skynettechnologies.com/vpat-accessibility-conformance-report)**
+A faster, cost-effective way to extend accessibility across your website and documents.
 
-The Voluntary Product Accessibility Template (VPAT), also known as an ACR (Accessibility Conformance Report) starts with an audit and provides current details for an accessible website, application, or any other digital assets.
+[**SkynetAccessibility Scanner**](https://www.skynettechnologies.com/accessibility-scanning-and-monitoring)
 
-**Accessibility Gridsome Widget Paid Add-ons**
+Automatically scan and monitor your website for WCAG and ADA issues, and track compliance progress quickly.
+
+[**SkynetA11y PDF Remediation**](https://www.skynettechnologies.com/pdf-accessibility-remediation)
+
+AI-powered PDF accessibility remediation - upload PDFs, scan website PDFs, and download remediated files.
+
+[**MS Office File Accessibility Checker**](https://www.skynettechnologies.com/file-accessibility-checker)
+
+Microsoft Office files (Word, Excel, PowerPoint) accessible quickly and cost-effectively.
+
+[**Voice Search**](https://www.skynettechnologies.com/voice-enabled-search)
+
+Let visitors search your website using their voice.
 
 [**White Label Accessibility**](https://www.skynettechnologies.com/all-in-one-accessibility/addons#accessibility-widget-add-ons)
 
-Remove the Skynet Technologies logo as well as all of the footer links, popups, report a problem link and more for full white label control.
+Remove the Skynet Technologies logo and all footer links, popups, the "report a problem" link, and more for full white-label control.
 
-[**Instant live site translations**](https://www.skynettechnologies.com/all-in-one-accessibility/addons#accessibility-widget-add-ons) **for Gridsome stores**
+[**Instant Live Site Translations**](https://www.skynettechnologies.com/all-in-one-accessibility/addons#accessibility-widget-add-ons)
 
-Translate Gridsome store into over 190 languages instantly to enhance accessibility for non-native speakers, individuals with language acquisition difficulties, and those with learning disabilities.
+Translate your website into 160+ languages instantly to enhance accessibility for non-native speakers, individuals with language acquisition difficulties, and those with learning disabilities.
 
-[**Modify Accessibility Menu**](https://www.skynettechnologies.com/all-in-one-accessibility/addons#accessibility-widget-add-ons) **for Gridsome Store**
+[**Modify Accessibility Menu**](https://www.skynettechnologies.com/all-in-one-accessibility/addons#accessibility-widget-add-ons)
 
-Build and fine-tune widget with the Modify Menu option. Reorder, remove and restructure the widget buttons to fit users’ specific accessibility needs.
+Reorder, remove, and restructure menu buttons to fit users' specific accessibility needs.
 
-**Gridsome Accessibility Partnership Opportunities**
+## Partnership Opportunities
 
-[**Gridsome accessibility agencies partnership**](https://www.skynettechnologies.com/agency-partners)
+[**Agency Accessibility Partnership**](https://www.skynettechnologies.com/agency-partners)
 
-Partner with us as an agency to provide comprehensive Gridsome ADA, EAA, WCAG accessibility solutions to clients. Get access to exclusive resources, training, and support to implement and manage accessibility features effectively.
+Partner with us as an agency to provide comprehensive ADA, EAA, and WCAG accessibility solutions to clients. Get access to exclusive resources, training, and support to implement and manage accessibility features effectively.
 
-[**Gridsome accessibility affiliate partnership**](https://www.skynettechnologies.com/affiliate-partner)
+[**Affiliate Partnership**](https://www.skynettechnologies.com/affiliate-partner)
 
-Sign up for our affiliate program and earn commissions by promoting accessibility Gridsome plugin. Share our widget with your network and help businesses improve their website accessibility while generating revenue.
+Earn commissions by promoting our accessibility solutions and help businesses improve their website accessibility.
 
-For more details, explore [**Gridsome accessibility partnership opportunities**](https://www.skynettechnologies.com/partner-program)
+For more details, explore [**accessibility partnership opportunities**](https://www.skynettechnologies.com/partner-program).
 
-**Screenshots**
+## Screenshots
 
 ![App Screenshot](https://www.skynettechnologies.com/sites/default/files/screenshot-1-free.jpg?v=3)
 
@@ -119,10 +264,20 @@ For more details, explore [**Gridsome accessibility partnership opportunities**
 
 ![App Screenshot](https://www.skynettechnologies.com/sites/default/files/screenshot-4-free.jpg?v=3)
 
-**Credits**
+![App Screenshot](https://www.skynettechnologies.com/sites/default/files/screenshot-5-free.jpg?v=3)
 
-This addon is developed and maintained by [website accessibility company](https://www.skynettechnologies.com/) - Skynet Technologies USA LLC
+![App Screenshot](https://www.skynettechnologies.com/sites/default/files/screenshot-6-free.jpg?v=3)
 
-**Current Maintainers**
+![App Screenshot](https://www.skynettechnologies.com/sites/default/files/screenshot-7-free.jpg?v=3)
 
--   [**Skynet Technologies USA LLC**](https://github.com/skynettechnologies)
+## Credits
+
+This plugin is developed and maintained by [website accessibility remediation company](https://www.skynettechnologies.com/) – Skynet Technologies USA LLC.
+
+## Current Maintainers
+
+- [**Skynet Technologies USA LLC**](https://github.com/skynettechnologies)
+
+---
+
+_README Version: 26.10.27_
